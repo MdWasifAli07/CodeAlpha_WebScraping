@@ -1,4 +1,4 @@
-# Web Scraping Template with BeautifulSoup
+# Web Scraping with BeautifulSoup
 
 ## 📌 Repository: `CodeAlpha_WebScraping`
 
